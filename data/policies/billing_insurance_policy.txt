@@ -1,0 +1,38 @@
+HOSPITAL POLICY: BILLING AND INSURANCE PROCEDURE
+Document ID: POL-BIL-03 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To ensure transparent, accurate, and timely billing for all services
+rendered, and to define how the hospital coordinates with insurance
+providers.
+
+2. ACCEPTED INSURANCE PROVIDERS
+The hospital directly bills the following providers: Blue Cross, Medicare,
+Aetna, UnitedHealthcare, and Cigna. Patients with other providers may submit
+claims for reimbursement themselves using an itemized invoice.
+
+3. PRE-AUTHORIZATION
+For Elective admissions, insurance pre-authorization must be obtained by the
+billing department at least 48 hours before the scheduled procedure. Urgent
+and Emergency admissions are billed retroactively; pre-authorization is not
+required to deliver care.
+
+4. BILLING PROCEDURE
+4.1. An itemized bill is generated at discharge, covering room charges,
+procedures, medication, and physician fees.
+4.2. The billing department submits claims to the patient's insurance
+provider within 5 business days of discharge.
+4.3. Patients receive a summary of any co-payment or deductible owed within
+10 business days of discharge.
+4.4. Disputed charges must be raised in writing within 30 days of the bill
+date and are reviewed by the billing manager within 10 business days.
+
+5. FINANCIAL ASSISTANCE
+Patients facing financial hardship may apply for a payment plan or a
+reduction in billed amount through the Patient Financial Services office.
+Applications are reviewed within 15 business days.
+
+6. REFUNDS
+Overpayments identified during reconciliation are refunded to the patient
+or insurance provider within 30 days of discovery, per the Refund and
+Cancellation Policy.

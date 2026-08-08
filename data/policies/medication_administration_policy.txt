@@ -1,0 +1,33 @@
+HOSPITAL POLICY: MEDICATION ADMINISTRATION
+Document ID: POL-MED-08 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To ensure medications are prescribed, dispensed, and administered safely
+and accurately.
+
+2. THE FIVE RIGHTS
+Before administering any medication, nursing staff must verify: the right
+patient, right medication, right dose, right route, and right time, cross-
+checked against the physician's order and the patient's wristband.
+
+3. HIGH-ALERT MEDICATIONS
+Medications with a heightened risk of causing significant harm if
+administered incorrectly (e.g., insulin, anticoagulants, opioids) require an
+independent double-check by a second licensed nurse before administration.
+
+4. DOCUMENTATION
+Every administered dose is recorded in the electronic medication
+administration record (eMAR) immediately after administration, including
+time, dose, and administering nurse's ID. Missed or refused doses are also
+documented, with reason.
+
+5. ADVERSE REACTIONS
+Any suspected adverse drug reaction must be reported immediately to the
+attending physician and logged in the incident reporting system within 1
+hour. Severe reactions trigger an automatic pharmacy and safety review.
+
+6. MEDICATION RECONCILIATION
+On admission and at discharge, a full medication reconciliation is performed
+comparing home medications, current inpatient medications, and
+newly-prescribed discharge medications to prevent duplication or dangerous
+interactions.

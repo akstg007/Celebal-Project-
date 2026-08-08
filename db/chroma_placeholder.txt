@@ -1,0 +1,1 @@
+This folder will contain db/chroma/ (the ChromaDB vector store) after you run: python src/rag_ingest.py

@@ -1,0 +1,34 @@
+HOSPITAL POLICY: EMERGENCY RESPONSE PROTOCOLS
+Document ID: POL-EMR-07 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To provide a coordinated, rapid response to medical emergencies, mass
+casualty events, and internal hospital emergencies (fire, power failure,
+security threats).
+
+2. CODE SYSTEM
+- Code Blue: Adult cardiac or respiratory arrest. Response team must reach
+  the patient within 3 minutes of the call.
+- Code Red: Fire. Nearest staff activate the nearest fire alarm and begin
+  the RACE protocol (Rescue, Alarm, Contain, Extinguish/Evacuate).
+- Code Silver: Active security threat or weapon on premises. Ward is
+  immediately locked down; only Security and law enforcement may unlock.
+- Code Pink: Infant or child abduction. All exits are monitored and a
+  facility-wide lockdown is initiated within 2 minutes.
+
+3. MASS CASUALTY / SURGE PROTOCOL
+Activated when incoming patients exceed normal Emergency Department
+capacity by 50% or more. Elective admissions are paused, additional staff
+are called in per the on-call roster, and triage follows the START (Simple
+Triage and Rapid Treatment) method to prioritize care.
+
+4. EVACUATION
+In the event of full facility evacuation, patients are moved in order of
+mobility: ambulatory patients first (to preserve staff capacity for
+non-ambulatory patients), followed by wheelchair-assisted, then bedbound
+patients requiring full transport teams.
+
+5. COMMUNICATION
+The hospital Incident Commander is responsible for all external
+communication during a declared emergency; individual staff must direct
+media or public inquiries to the Incident Commander's office.

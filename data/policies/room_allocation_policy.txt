@@ -1,0 +1,35 @@
+HOSPITAL POLICY: ROOM AND BED ALLOCATION
+Document ID: POL-ROOM-09 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To allocate rooms and beds fairly and appropriately based on clinical need,
+infection control requirements, and patient acuity.
+
+2. ALLOCATION PRIORITY
+Bed assignment priority is determined by: (1) clinical acuity and required
+level of monitoring, (2) infection control isolation requirements, (3)
+specialty ward matching the patient's primary condition, and (4) patient
+preference where clinically equivalent options exist.
+
+3. WARD ASSIGNMENT BY CONDITION
+Patients are generally assigned to the ward most aligned with their primary
+medical condition (e.g., Oncology for Cancer patients, Cardiology for
+Hypertension-related admissions) where capacity allows, to ensure access to
+specialty nursing expertise.
+
+4. PRIVATE ROOM REQUESTS
+Private rooms are allocated based on medical necessity first (e.g.,
+isolation precautions) and subject to availability for patient preference
+requests, which may incur an additional charge as outlined in the Billing
+Policy.
+
+5. ROOM TRANSFERS
+A patient may be transferred between rooms or wards if their clinical
+condition changes significantly, if isolation status changes, or for
+operational reasons (e.g., consolidating a ward for maintenance). Transfers
+are documented with reason and approving physician.
+
+6. CAPACITY MANAGEMENT
+When the hospital is at full capacity, the bed management team coordinates
+with Admissions to determine whether new Elective admissions should be
+deferred, following the Admission Policy's exception procedures.

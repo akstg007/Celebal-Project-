@@ -1,0 +1,38 @@
+HOSPITAL POLICY: PATIENT DISCHARGE PROCEDURE
+Document ID: POL-DIS-02 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To ensure every patient is discharged safely, with complete documentation,
+clear follow-up instructions, and appropriate handoff of care.
+
+2. DISCHARGE CRITERIA
+A patient may be discharged when the attending physician determines that:
+- Vital signs are stable for at least 12 consecutive hours.
+- The primary reason for admission has been resolved or is manageable on an
+  outpatient basis.
+- A safe discharge destination (home, rehabilitation facility, or transfer)
+  has been confirmed.
+
+3. DISCHARGE PROCEDURE
+3.1. Attending physician writes a discharge order in the patient's chart,
+including diagnosis summary, procedures performed, and medications.
+3.2. Nursing staff review discharge instructions with the patient or their
+designated caregiver, covering medication schedule, activity restrictions,
+warning signs requiring return to hospital, and follow-up appointment dates.
+3.3. Billing department finalizes the patient's account; any outstanding
+balance is communicated in writing per the Billing & Insurance Policy.
+3.4. A discharge summary is sent to the patient's primary care physician
+within 48 hours, where applicable.
+3.5. Patient or caregiver signs an acknowledgment of receiving discharge
+instructions before leaving the ward.
+
+4. AGAINST MEDICAL ADVICE (AMA) DISCHARGE
+If a patient chooses to leave against medical advice, the attending
+physician must document the risks explained to the patient, and the patient
+must sign an AMA release form. Care is not withheld pending this signature
+if delay would endanger the patient.
+
+5. READMISSION
+Patients readmitted within 30 days for the same condition trigger an
+internal quality review to assess whether the original discharge was
+premature.

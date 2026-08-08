@@ -1,0 +1,36 @@
+HOSPITAL POLICY: INFECTION PREVENTION AND CONTROL
+Document ID: POL-INF-05 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To minimize the risk of healthcare-associated infections (HAIs) for
+patients, staff, and visitors.
+
+2. STANDARD PRECAUTIONS
+All staff must perform hand hygiene before and after every patient contact,
+using alcohol-based hand rub or soap and water for a minimum of 20 seconds.
+Personal protective equipment (PPE) — gloves, gowns, masks — is required
+based on the anticipated exposure risk for each procedure.
+
+3. ISOLATION PRECAUTIONS
+Patients with confirmed or suspected communicable infections are placed
+under one of three isolation categories:
+- Contact Precautions: gloves and gown required for all room entry.
+- Droplet Precautions: surgical mask required within 3 feet of the patient.
+- Airborne Precautions: N95 respirator required; patient placed in a
+  negative-pressure room where available.
+
+4. ENVIRONMENTAL CLEANING
+Patient rooms are terminally cleaned and disinfected within 2 hours of
+discharge, before the next patient is assigned. High-touch surfaces (bed
+rails, call buttons, door handles) are disinfected at minimum every 8 hours
+during a patient's stay.
+
+5. STAFF ILLNESS
+Staff exhibiting symptoms of a communicable illness must not report to
+direct patient care duties and must notify their supervisor and Occupational
+Health before returning to work.
+
+6. OUTBREAK RESPONSE
+Two or more cases of the same infection in the same ward within 72 hours
+triggers activation of the Infection Control Committee and mandatory
+enhanced surveillance of that ward.

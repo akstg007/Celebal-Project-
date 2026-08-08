@@ -1,0 +1,37 @@
+HOSPITAL POLICY: CONSENT FOR TREATMENT
+Document ID: POL-CONS-13 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To ensure patients provide informed, voluntary consent before undergoing
+treatment, consistent with their right to self-determination.
+
+2. TYPES OF CONSENT
+- General Consent: obtained at admission, covering routine care such as
+  vital sign monitoring, basic nursing care, and diagnostic blood draws.
+- Informed Consent: required for any procedure with material risk (surgery,
+  anesthesia, invasive diagnostic procedures, blood transfusion), obtained
+  by the physician performing or supervising the procedure.
+
+3. CAPACITY TO CONSENT
+Adult patients are presumed to have capacity to consent unless a physician
+documents otherwise. Where a patient lacks capacity, consent is obtained
+from their legally authorized representative in the following priority
+order: healthcare power of attorney, legal guardian, spouse, adult child,
+parent, then closest available adult relative.
+
+4. MINORS
+Consent for patients under 18 is generally obtained from a parent or legal
+guardian, except for specific categories defined by law (e.g., emergency
+care, certain reproductive or mental health services) where a minor may
+consent independently.
+
+5. WITHDRAWAL OF CONSENT
+A patient may withdraw consent at any point before or during a procedure,
+except where stopping would itself create immediate danger to the patient's
+life.
+
+6. EMERGENCY EXCEPTION
+Where a patient requires immediate treatment to prevent death or serious
+harm and is unable to consent, and no authorized representative is
+immediately available, treatment may proceed under the emergency exception,
+documented in detail in the chart.

@@ -1,0 +1,42 @@
+HOSPITAL POLICY: PATIENT ADMISSION PROCEDURE
+Document ID: POL-ADM-01 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+This policy defines the standard procedure for admitting patients across all
+hospital departments, ensuring consistent, safe, and timely intake regardless
+of admission type (Elective, Urgent, or Emergency).
+
+2. SCOPE
+Applies to all clinical and administrative staff involved in patient intake,
+including front-desk registration, triage nurses, and admitting physicians.
+
+3. ADMISSION TYPES
+- Elective Admission: Scheduled in advance, typically for planned procedures.
+  Requires pre-admission clearance, insurance pre-authorization, and a signed
+  consent form at least 48 hours prior to the scheduled date.
+- Urgent Admission: Patient requires care within 24 hours but is not in
+  immediate life-threatening danger. Triage nurse assigns priority level
+  within 30 minutes of arrival.
+- Emergency Admission: Immediate, life-threatening condition. Patient is
+  admitted directly to the Emergency Department without prior registration;
+  paperwork is completed retroactively within 24 hours or upon stabilization.
+
+4. PROCEDURE
+4.1. Registration staff verify patient identity using two identifiers (full
+name and date of birth) and collect insurance information.
+4.2. A unique patient ID is generated and a wristband issued before any
+clinical procedure is performed.
+4.3. Triage nurse records vital signs and assigns an admission type within
+15 minutes of registration for Urgent cases, immediately for Emergency cases.
+4.4. Attending physician is notified and reviews the patient's history within
+1 hour of ward admission.
+4.5. Room and bed assignment is made based on medical condition, required
+level of care, and current bed availability, per the Room Allocation Policy.
+
+5. DOCUMENTATION
+All admissions must be logged in the hospital information system within 2
+hours, including admission type, attending doctor, and assigned room number.
+
+6. EXCEPTIONS
+Mass-casualty events invoke the Emergency Surge Protocol, which supersedes
+standard registration timelines (see Emergency Protocols document).

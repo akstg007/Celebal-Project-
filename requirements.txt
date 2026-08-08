@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+python-dotenv
+groq
+langgraph
+chromadb
+sentence-transformers
+streamlit

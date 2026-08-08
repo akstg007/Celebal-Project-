@@ -1,0 +1,38 @@
+HOSPITAL POLICY: PATIENT DATA PRIVACY AND CONFIDENTIALITY
+Document ID: POL-PRIV-06 | Effective Date: 2024-01-01 | Review Cycle: Annual
+
+1. PURPOSE
+To protect the confidentiality, integrity, and appropriate use of patient
+health information in accordance with hospital data governance standards.
+
+2. ACCESS CONTROL
+Access to patient records is granted strictly on a need-to-know basis tied
+to a staff member's role. All access to the electronic health record system
+is logged, including staff ID, timestamp, and record accessed.
+
+3. PERMITTED USES
+Patient information may be accessed and shared for: direct treatment
+purposes, care coordination with other treating providers, billing and
+insurance claims processing, and legally mandated public health reporting.
+
+4. DISCLOSURE TO THIRD PARTIES
+Patient information is not disclosed to family members, employers, or any
+external party without the patient's written consent, except where required
+by law (e.g., certain communicable disease reporting) or in
+life-threatening emergencies where the patient cannot consent.
+
+5. DATA SECURITY
+All patient data is encrypted at rest and in transit. Staff must not access
+patient records for any patient they are not directly involved in treating,
+including friends, family members, or public figures ("curiosity access"),
+which is treated as a serious disciplinary violation.
+
+6. PATIENT RIGHTS
+Patients may request a copy of their medical record, request corrections to
+inaccurate information, and request a log of who has accessed their record,
+processed by the Health Information Management office within 15 business
+days.
+
+7. BREACH NOTIFICATION
+Any suspected unauthorized access or data breach must be reported to the
+Privacy Officer within 4 hours of discovery.
