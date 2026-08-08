@@ -26,34 +26,6 @@ conversational interface.
                         (shown in Streamlit UI)
 ```
 
-## Project status
-
-### Day 1 — complete
-- [x] Project structure set up
-- [x] Raw Kaggle `healthcare_dataset.csv` cleaned (deduped, name casing fixed, dates parsed,
-      invalid rows dropped) → 54,860 usable rows
-- [x] Loaded into local SQLite DB: `db/hospital.db`, table `patients`
-- [x] Indexes added on commonly-filtered columns
-- [x] 10 manual test queries validated against the DB (`src/sample_queries.py`) — this is
-      the ground-truth set we'll use on Day 3 to evaluate the NLP-to-SQL agent
-- [x] Schema reference written (`src/schema_reference.md`) — will be injected into the SQL
-      agent's prompt later
-
-### Day 2 — complete
-- [x] 15 synthetic hospital policy documents written (`data/policies/*.txt`, ~3,400 words
-      total) covering admission, discharge, billing, visiting hours, infection control,
-      data privacy, emergency protocols, medication administration, room allocation,
-      complaints, patient rights, fire safety, consent, non-discrimination, refunds
-- [x] Custom sentence-aware chunker (`src/rag_ingest.py`) — 98 chunks, ~310 chars avg,
-      80-char overlap between chunks
-- [x] ChromaDB ingestion pipeline using local `all-MiniLM-L6-v2` embeddings (free, no API
-      cost, runs on CPU)
-- [x] Retrieval tested with 10 sample policy questions (`src/rag_test.py`) — this becomes
-      the ground-truth set for evaluating the RAG Agent on Day 4
-
-**Note:** `src/rag_ingest.py` and `src/rag_test.py` need one-time internet access to
-download the embedding model (~80MB from Hugging Face) the first time you run them. After
-that, everything runs fully offline/local — no API calls, no cost for the RAG side.
 
 ## Setup
 
@@ -66,7 +38,7 @@ pip install -r requirements.txt
 Get a **free** Groq API key at https://console.groq.com/keys (used from Day 3 onward),
 then create a `.env` file (see `.env.example`).
 
-## Run Day 1 scripts
+
 
 ```bash
 # Cleans the CSV and (re)builds db/hospital.db
@@ -76,7 +48,7 @@ python src/data_prep.py
 python src/sample_queries.py
 ```
 
-## Run Day 2 scripts
+
 
 ```bash
 # Regenerate the 15 synthetic policy .txt files (already included, but reproducible)
