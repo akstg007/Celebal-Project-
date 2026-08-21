@@ -84,12 +84,9 @@ hospital-agent-project/
 └── README.md
 ```
 
-## Roadmap
 
-| Day | Milestone |
-|-----|-----------|
-| 1   | Data cleaning + SQLite DB ✅ |
-| 2   | Synthetic policy docs + RAG ingestion ✅ |
+| 1   | Data cleaning + SQLite DB  |
+| 2   | Synthetic policy docs + RAG ingestion  |
 | 3   | NLP-to-SQL Agent |
 | 4   | RAG Agent |
 | 5   | Orchestrator Agent + LangGraph integration |
